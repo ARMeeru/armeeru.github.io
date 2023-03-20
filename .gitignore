@@ -1,0 +1,43 @@
+# Hugo output directory
+/public/
+
+# Hugo cache directory
+/resources/
+
+# Ignore files used for generating the site
+*.DS_Store
+*.bak
+*~
+Thumbs.db
+*.swp
+
+# Ignore editor and temp files
+*.log
+*.log.*
+*.tmp
+*.bak
+*.swp
+*~
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore files inside the m10c theme
+/themes/m10c/exampleSite/
+/themes/m10c/.sass-cache/
+/themes/m10c/resources/
+/themes/m10c/node_modules/
+/themes/m10c/public/
+/themes/m10c/*.iml
+/themes/m10c/*.log
+/themes/m10c/*.out
+/themes/m10c/*.gz
+/themes/m10c/*.tgz
+/themes/m10c/*.zip
