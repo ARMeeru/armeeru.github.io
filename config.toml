@@ -1,6 +1,5 @@
 baseURL = "qualitybymeeru.dev"
 title = "Asifur Rahaman"
-# themesDir = "../.."
 theme = "m10c"
 paginate = 8
 
@@ -10,11 +9,11 @@ paginate = 8
     name = "Home"
     url = "/"
     weight = 1
-  # [[menu.main]]
-  #   identifier = "tags"
-  #   name = "Tags"
-  #   url = "/tags/"
-  #   weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"
@@ -23,9 +22,10 @@ paginate = 8
 
 [params]
   author = "Asifur Rahaman"
-  description = "Increasing Digital Product Quality through Automation"
+  description = "Bringing quality and automation together with a personal touch"
   menu_item_separator = " ⚡️ "
   avatar = "/avatar.jpg"
+  icon = "/favicon.ico"
   [[params.social]]
     icon = "github"
     name = "Github"

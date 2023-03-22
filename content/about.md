@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2023-03-20
 draft: false
-# tags: ["introduction", "resume"]
+tags: ["introduction", "resume"]
 ---
 ## Summary
 With over three years of professional experience as a SQA Engineer in the dynamic world of agile development, I have a proven track record of delivering high-quality mobile applications for the ride-sharing industry. Currently, I am passionately working towards implementing automated solutions to streamline testing processes, ensuring efficient and seamless product delivery.
